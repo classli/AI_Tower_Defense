@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AI_Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="depthFirstSearch">深度优先</string>
+    <string name="breadthFirstSearch">广度优先</string>
+    <string name="breadthFirstSearchA">广度优先 A*</string>
+    <string name="Dijkstra">Dijkstra</string>
+    <string name="DijkstraA">Dijkstra A*</string>
+    
+    <string name="sybz">使用步数：</string>
+    <string name="ljcd">路径长度：</string>
+    
+    <string name="tA">目标点A</string>
+    <string name="tB">目标点B</string>
+    <string name="tC">目标点C</string>
+    <string name="tD">目标点D</string>
+    <string name="tE">目标点E</string>
+    <string name="GO">GO</string>
+</resources>
